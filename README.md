@@ -1,1 +1,1 @@
-## Learning PyTorch
+## Learning CUDA and Pytorch
